@@ -1,0 +1,1 @@
+delete from barang where id_barang = 99;
